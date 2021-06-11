@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Max Berkowitz
+- 👋 Hi, I’m Max
 - Currently studying Computer Science at University of Michigan
 - 📫 Email me! maxberkowitz03@gmail.com
